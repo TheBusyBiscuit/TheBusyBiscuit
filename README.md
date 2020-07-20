@@ -1,5 +1,5 @@
 <h2 align="center">Hello :wave:, I'm TheBusyBiscuit</h1>
-<h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source developer</h3>
+<h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer</h3>
 <p align="center">
   You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>
 </p>
