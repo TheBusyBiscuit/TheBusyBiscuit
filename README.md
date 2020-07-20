@@ -19,7 +19,7 @@
 
 #### :wrench: Skills
 * Languages: `Java`, `C#`, `Visual Basic`, `Lua`, `JavaScript`, `SQL`, `HTML` and `CSS`
-* Frameworks and Software: `Bukkit/Spigot`, `node.js`, `git`, `GitHub Actions`, `Maven` and various Database systems
+* Frameworks and Software: `Bukkit/Spigot`, `node.js`, `git`, `GitHub Actions`, `Maven`, `Electron` and various Database systems
 * Tools: `Eclipse`, `IntelliJ`, `Visual Studio` and `Atom`
 <hr/>
 
