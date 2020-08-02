@@ -18,7 +18,10 @@
 </ul>
 
 ### :wrench: Skills
-I started programming in 2013. While my first projects weren't exactly high-quality code, I grew over the years, as a person but also did my skills grow. Here is a short summary of tools I have worked with over the past years:
+I started programming back in 2013. 
+While my first projects weren't exactly high-quality code, I grew over the years, as a person but I also grew and improved my skills as time has passed. 
+Here are some things I have experience with:
+
 #### Languages
   ![Java](https://img.shields.io/badge/-java-e67f2c?style=flat-square&logo=java)
   ![C#](https://img.shields.io/badge/-C%23-7732a8?style=flat-square&logo=c+sharp)
@@ -27,7 +30,8 @@ I started programming in 2013. While my first projects weren't exactly high-qual
   ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-#### Frameworks and technology
+  
+#### Frameworks, libraries and technologies
   ![Bukkit](https://img.shields.io/badge/-CraftBukkit-ff9a03?style=flat-square)
   ![Nodejs](https://img.shields.io/badge/-node.js-22a34d?style=flat-square&logo=node.js&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -40,12 +44,14 @@ I started programming in 2013. While my first projects weren't exactly high-qual
   ![GitHub](https://img.shields.io/badge/-GitHub_Actions-181717?style=flat-square&logo=github)
   ![Maven](https://img.shields.io/badge/-Maven-b31212?style=flat-square&logo=apache+maven)
   ![Electron](https://img.shields.io/badge/-Electron-75b2eb?style=flat-square&logo=electron&logoColor=white)
-#### Tools and Editors
+  
+#### IDEs, Editors and tools
   ![Eclipse](https://img.shields.io/badge/-Eclipse-290b54?style=flat-square&logo=eclipse+ide)
   ![Unity](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-081059?style=flat-square&logo=intellij+idea)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-540b85?style=flat-square&logo=visual+studio)
   ![Atom](https://img.shields.io/badge/-Atom-48b86d?style=flat-square&logo=atom)
+  ![SonarQube](https://img.shields.io/badge/-SonarQube-32bad9?style=flat-square&logo=sonarqube&logoColor=white)
 
 <hr/>
 
