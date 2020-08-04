@@ -23,13 +23,13 @@ While my first projects weren't exactly high-quality code, I grew over the years
 Here are some things I have experience with:
 
 #### Languages
-  ![Java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java)
-  ![C#](https://img.shields.io/badge/-C%23-7719AA?style=flat-square&logo=c+sharp)
-  ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  [![Java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java)](https://github.com/TheBusyBiscuit?tab=repositories&language=java)
+  [![C#](https://img.shields.io/badge/-C%23-7719AA?style=flat-square&logo=c+sharp)](https://github.com/TheBusyBiscuit?tab=repositories&language=c%23)
+  [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)](https://github.com/TheBusyBiscuit?tab=repositories&language=lua)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/TheBusyBiscuit?tab=repositories&language=javascript)
+  [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=php)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=html)
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/TheBusyBiscuit?tab=repositories&language=css)
   
 #### Frameworks, libraries and technologies
   [![Bukkit](https://img.shields.io/badge/-CraftBukkit-ff9a03?style=flat-square)](https://dev.bukkit.org/bukkit-plugins)
