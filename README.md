@@ -38,7 +38,6 @@ Here are some things I have experience with:
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
   [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)](https://graphql.org/)
-  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/)
   [![Unity](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)](https://unity.com/)
@@ -52,6 +51,7 @@ Here are some things I have experience with:
   [![IntelliJ](https://img.shields.io/badge/-IntelliJ-081059?style=flat-square&logo=intellij+idea)](https://www.jetbrains.com/idea/)
   [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual+studio)](https://visualstudio.microsoft.com/)
   [![Atom](https://img.shields.io/badge/-Atom-48b86d?style=flat-square&logo=atom)](https://atom.io/)
+  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![Sonarcloud](https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/)
 
 <hr/>
