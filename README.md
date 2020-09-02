@@ -8,6 +8,7 @@
 ### :compass: You can find me on...
 * Twitter: [@TheBusyBiscuit](https://twitter.com/TheBusyBiscuit)
 * Youtube: [The Busy Biscuit](https://www.youtube.com/channel/UCNpuxll39TkRJdYVkvgrvgQ)
+* Discord: `TheBusyBiscuit#2610`
 
 ### :scroll: Some of my Open-Source projects
 
@@ -19,7 +20,7 @@
 
 ### :wrench: Skills
 I started programming back in 2013. 
-While my first projects weren't exactly high-quality code, I grew over the years, as a person but I also grew and improved my skills as time has passed. 
+While my first projects weren't exactly high-quality code, I grew over the years, as a person but I also grew and improved my skills as time passed. 
 Here are some things I have experience with:
 
 #### Languages
