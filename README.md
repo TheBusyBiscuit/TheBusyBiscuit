@@ -13,7 +13,7 @@
 ### :scroll: Some of my Open-Source projects
 
 <ul>
-  <li><img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" alt="Repository"/> <a href="https://github.com/TheBusyBiscuit/Slimefun4">TheBusyBiscuit/Slimefun4</a></li>
+  <li><img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" alt="Repository"/> <a href="https://github.com/Slimefun/Slimefun4">Slimefun/Slimefun4</a></li>
     <li><img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" alt="Repository"/> <a href="https://github.com/TheBusyBiscuit/recently-closed-issues">TheBusyBiscuit/recently-closed-issues</a></li>
     <li><img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/repo.svg" alt="Repository"/> <a href="https://github.com/Slimefun/discord-webhook">Slimefun/discord-webhook</a></li>
 </ul>
