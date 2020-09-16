@@ -2,7 +2,7 @@
 <h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer</h3>
 
 <p align="center">
-  You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>
+  <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I started programming back in 2013.
 While my first projects were obviously far from... good, I grew over the years. I grew as a person but I also grew and improved my ever-expanding set of skills. 
 Here are some of the things I have experience with :relaxed:
 
-##### Languages
+#### :speech_balloon: Programming Languages
   [![Java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java)](https://github.com/TheBusyBiscuit?tab=repositories&language=java)
   [![C#](https://img.shields.io/badge/-C%23-7719AA?style=flat-square&logo=c+sharp)](https://github.com/TheBusyBiscuit?tab=repositories&language=c%23)
   [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua)](https://github.com/TheBusyBiscuit?tab=repositories&language=lua)
@@ -25,7 +25,7 @@ Here are some of the things I have experience with :relaxed:
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=html)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://github.com/TheBusyBiscuit?tab=repositories&language=css)
   
-##### Frameworks, libraries and technologies
+#### :books: Frameworks, libraries and technologies
   [![Bukkit](https://img.shields.io/badge/-CraftBukkit-ff9a03?style=flat-square)](https://dev.bukkit.org/bukkit-plugins)
   [![Nodejs](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
   [![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache+maven)](https://maven.apache.org/)
@@ -39,7 +39,7 @@ Here are some of the things I have experience with :relaxed:
   [![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
   [![Discord](https://img.shields.io/badge/-Discord_API-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
   
-##### IDEs, Editors and tools
+#### :wrench: IDEs, Editors and tools
   [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse+ide)](https://www.eclipse.org/)
   [![Unity](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)](https://unity.com/)
   [![IntelliJ](https://img.shields.io/badge/-IntelliJ-081059?style=flat-square&logo=intellij+idea)](https://www.jetbrains.com/idea/)
