@@ -1,19 +1,21 @@
 <h2 align="center">Hello :wave:, I'm TheBusyBiscuit</h1>
 <h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer</h3>
+
 <p align="center">
   You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>
 </p>
+
 <hr/>
 
-### :compass: You can find me on...
-* Twitter: [@TheBusyBiscuit](https://twitter.com/TheBusyBiscuit)
-* Youtube: [The Busy Biscuit](https://www.youtube.com/channel/UCNpuxll39TkRJdYVkvgrvgQ)
-* Discord: `TheBusyBiscuit#2610`
+<p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social">
+</p>
 
 ### :wrench: Skills
 I started programming back in 2013. 
-While my first projects weren't exactly high-quality code, I grew over the years, as a person but I also grew and improved my skills as time passed. 
-Here are some things I have experience with:
+While my first projects were obviously far from... good, I grew over the years. I grew as a person but I also grew and improved my ever-expanding set of skills. 
+Here are some of the things I have experience with :relaxed:
 
 ##### Languages
   [![Java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java)](https://github.com/TheBusyBiscuit?tab=repositories&language=java)
