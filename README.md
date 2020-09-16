@@ -5,14 +5,13 @@
   You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>
 </p>
 
-<hr/>
-
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social">
+  <a href="https://github.com/TheBusyBiscuit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social"></a>
+  <a href="https://twitter.com/TheBusyBiscuit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social"></a>
 </p>
 
-### :wrench: Skills
+<hr/>
+
 I started programming back in 2013. 
 While my first projects were obviously far from... good, I grew over the years. I grew as a person but I also grew and improved my ever-expanding set of skills. 
 Here are some of the things I have experience with :relaxed:
