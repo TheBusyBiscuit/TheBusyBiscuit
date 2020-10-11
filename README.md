@@ -12,8 +12,7 @@
 
 <hr/>
 
-#### :speech_balloon: Languages
-I have experience in...
+#### :speech_balloon: I have experience in...
 
 <a title="Java" href="https://github.com/TheBusyBiscuit?tab=repositories&language=java">
   <img alt="Java" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
@@ -37,8 +36,7 @@ I have experience in...
   <img alt="Lua" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" />
 </a>
 
-#### :books: Libraries and tech
-I have experience with...
+#### :books: I have experience with...
 
 <a title="node.js" href="https://nodejs.org/">
   <img alt="Node JS" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
@@ -65,8 +63,7 @@ I have experience with...
   <img alt="GitHub Actions" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/actions/actions.png" />
 </a>
   
-#### :wrench: IDEs, Editors and tools
-I am using...
+#### :wrench: I am using...
 
 <a title="GitHub" href="https://github.com/">
   <img alt="GitHub" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
