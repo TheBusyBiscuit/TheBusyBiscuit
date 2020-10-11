@@ -12,44 +12,89 @@
 
 <hr/>
 
-I started programming back in 2013. 
-While my first projects were obviously far from... good, I grew over the years. I grew as a person but I also grew and improved my ever-expanding set of skills. 
-Here are some of the things I have experience with :relaxed:
+#### :speech_balloon: Languages
+I have experience in...
 
-#### :speech_balloon: Programming Languages
-  [![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)](https://github.com/TheBusyBiscuit?tab=repositories&language=java)
-  [![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c+sharp)](https://github.com/TheBusyBiscuit?tab=repositories&language=c%23)
-  [![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)](https://github.com/TheBusyBiscuit?tab=repositories&language=lua)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=javascript)
-  [![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=php)
-  [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)](https://github.com/TheBusyBiscuit?tab=repositories&language=html)
-  [![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)](https://github.com/TheBusyBiscuit?tab=repositories&language=css)
-  
-#### :books: Frameworks, libraries and technologies
-  [![Bukkit](https://img.shields.io/badge/-CraftBukkit-black?style=flat-square)](https://dev.bukkit.org/bukkit-plugins)
-  [![Nodejs](https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-  [![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apache+maven)](https://maven.apache.org/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)](https://graphql.org/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
-  [![Unity](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)](https://unity.com/)
-  [![GitHub](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github)](https://github.com/features/actions)
-  [![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-  [![Discord](https://img.shields.io/badge/-Discord_API-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+<a title="Java" href="https://github.com/TheBusyBiscuit?tab=repositories&language=java">
+  <img alt="Java" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+</a>
+<a title="C#" href="https://github.com/TheBusyBiscuit?tab=repositories&language=c%23">
+  <img alt="C Sharp" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+</a>
+<a title="JavaScript" href="https://github.com/TheBusyBiscuit?tab=repositories&language=javascript">
+  <img alt="Java Script" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+</a>
+<a title="CSS" href="https://github.com/TheBusyBiscuit?tab=repositories&language=css">
+  <img alt="CSS" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+</a>
+<a title="HTML" href="https://github.com/TheBusyBiscuit?tab=repositories&language=html">
+  <img alt="HTML" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+</a>
+<a title="PHP" href="https://github.com/TheBusyBiscuit?tab=repositories&language=php">
+  <img alt="PHP" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
+</a>
+<a title="Lua" href="https://github.com/TheBusyBiscuit?tab=repositories&language=lua">
+  <img alt="Lua" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" />
+</a>
+
+#### :books: Libraries and tech
+I have experience with...
+
+<a title="node.js" href="https://nodejs.org/">
+  <img alt="Node JS" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+</a>
+<a title="Apache Maven" href="https://maven.apache.org/">
+  <img alt="Maven" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/maven/maven.png" />
+</a>
+<a title="Postgresql" href="https://www.postgresql.org/">
+  <img alt="Postgresql" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+</a>
+<a title="MySQL" href="https://www.mysql.com/">
+  <img alt="MySQL" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+</a>
+<a title="GraphQL" href="https://graphql.org/">
+  <img alt="GraphQL" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />
+</a>
+<a title="Unity3D" href="https://unity.com/">
+  <img alt="Unity 3D" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+</a>
+<a title="Discord" href="https://discord.com/">
+  <img alt="Discord" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" />
+</a>
+<a title="GitHub Actions" href="https://github.com/features/actions">
+  <img alt="GitHub Actions" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/actions/actions.png" />
+</a>
   
 #### :wrench: IDEs, Editors and tools
-  [![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse+ide)](https://www.eclipse.org/)
-  [![Unity](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)](https://unity.com/)
-  [![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij+idea)](https://www.jetbrains.com/idea/)
-  [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual+studio)](https://visualstudio.microsoft.com/)
-  [![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)](https://atom.io/)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-  [![Sonarcloud](https://img.shields.io/badge/-SonarCloud-black?style=flat-square&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/)
+I am using...
+
+<a title="GitHub" href="https://github.com/">
+  <img alt="GitHub" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+</a>
+<a title="Eclipse IDE" href="https://www.eclipse.org/">
+  <img alt="Eclipse" height="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/eclipseide.svg" style="color: #2C2255;"/>
+</a>
+<a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/">
+  <img alt="IntelliJ IDEA" height="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/intellijidea.svg" />
+</a>
+<a title="Visual Studio" href="https://visualstudio.microsoft.com/">
+  <img alt="Visual Studio" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+</a>
+<a title="Unity3D" href="https://unity.com/">
+  <img alt="Unity 3D" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+</a>
+<a title="Atom" href="https://atom.io/">
+  <img alt="Atom" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />
+</a>
+<a title="git" href="https://git-scm.com/">
+  <img alt="Git" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+</a>
+<a title="Sonarcloud" href="https://sonarcloud.io/">
+  <img alt="Sonarcloud" height="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/sonarcloud.svg" />
+</a>
 
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true" alt="Profile Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true" alt="Profile Stats">
 </p>
