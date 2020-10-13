@@ -83,9 +83,6 @@
 <a title="Atom" href="https://atom.io/">
   <img alt="Atom" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />
 </a>
-<a title="git" href="https://git-scm.com/">
-  <img alt="Git" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-</a>
 <a title="Sonarcloud" href="https://sonarcloud.io/">
   <img alt="Sonarcloud" height="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/sonarcloud.svg" />
 </a>
