@@ -13,7 +13,7 @@
 <hr/>
 <p align="center">
   <em>
-    🎨 Profile picture drawn by <a href="https://www.instagram.com/iamsorry_art/">IAmSorry_Art</a>
+    🎨 Profile picture drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
   </em>
 </p>
 <hr/>
