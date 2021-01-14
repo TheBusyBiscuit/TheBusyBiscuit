@@ -78,7 +78,7 @@
   <img alt="GitHub" height="48px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/github.svg" />
 </a>
 <a title="Eclipse IDE" href="https://www.eclipse.org/">
-  <img alt="Eclipse" height="48px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/eclipse.svg"/>
+  <img alt="Eclipse" height="48px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/eclipse.svg" />
 </a>
 <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/">
   <img alt="IntelliJ IDEA" height="48px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/intellijidea.svg" />
