@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheBusyBiscuit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social"></a>
-  <a href="https://twitter.com/TheBusyBiscuit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social"></a>
+  <a href="https://github.com/TheBusyBiscuit"><img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social&logoColor=000000"></a>
+  <a href="https://twitter.com/TheBusyBiscuit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social&logoColor=000000"></a>
 </p>
 
 <hr/>
