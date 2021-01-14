@@ -13,7 +13,7 @@
 <hr/>
 <p align="center">
   <em>
-    🎨 Profile picture drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
+    🎨 Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
   </em>
 </p>
 <hr/>
@@ -21,7 +21,7 @@
 ### :speech_balloon: I write my code in...
 
 <a title="Java" href="https://github.com/TheBusyBiscuit?tab=repositories&language=java">
-  <img alt="Java" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+  <img alt="Java" height="48px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/java.svg" style="filter: invert(27%) sepia(84%) saturate(1013%) hue-rotate(160deg) brightness(105%) contrast(101%);"/>
 </a>
 <a title="C#" href="https://github.com/TheBusyBiscuit?tab=repositories&language=c%23">
   <img alt="C Sharp" height="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
@@ -96,5 +96,5 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true" alt="Profile Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true&theme=darcula" alt="Profile Stats">
 </p>
