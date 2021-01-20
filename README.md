@@ -150,7 +150,11 @@
                 <img alt="Sonarcloud" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/sonarcloud.svg" />
             </a>
         </td>
-        <td />
+        <td>
+            <a title="Raspberry Pi" href="https://www.raspberrypi.org/">
+                <img alt="Raspberry Pi" height="32px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/raspberrypi.svg" />
+            </a>
+        </td>
         <td />
     </tr>
 </table>
