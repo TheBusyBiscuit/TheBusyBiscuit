@@ -1,14 +1,5 @@
 <h2 align="center">Hello :wave:, I'm TheBusyBiscuit!</h2>
-<h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer.</h3>
-
-<p align="center">
-    <a href="https://github.com/TheBusyBiscuit">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social&logoColor=000000">
-    </a>
-    <a href="https://twitter.com/TheBusyBiscuit">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social&logoColor=000000">
-    </a>
-</p>
+<h3 align="center">Student at University, coffee addict and an Open-Source software developer.</h3>
 
 <p align="center">
     <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>.</em>
