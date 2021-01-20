@@ -16,14 +16,6 @@
 
 <hr />
 
-<p align="center">
-    <em>
-        :art: Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
-    </em>
-</p>
-
-<hr />
-
 <table>
     <tr>
         <td><em>:speech_balloon: I write my code in...</em></td>
@@ -158,6 +150,10 @@
         <td />
     </tr>
 </table>
+
+<em>
+    :art: Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
+</em>
 
 <hr />
 
