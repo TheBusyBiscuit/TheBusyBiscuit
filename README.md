@@ -1,9 +1,5 @@
-<h2 align="center">Hello :wave:, I'm TheBusyBiscuit</h2>
-<h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer</h3>
-
-<p align="center">
-    <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
-</p>
+<h2 align="center">Hello :wave:, I'm TheBusyBiscuit!</h2>
+<h3 align="center">Student at University, coffee addict, former Bukkit Forums moderator and an Open-Source Software developer.</h3>
 
 <p align="center">
     <a href="https://github.com/TheBusyBiscuit">
@@ -12,6 +8,10 @@
     <a href="https://twitter.com/TheBusyBiscuit">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TheBusyBiscuit?label=%40TheBusyBiscuit&style=social&logoColor=000000">
     </a>
+</p>
+
+<p align="center">
+    <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
 </p>
 
 <hr />
@@ -152,7 +152,7 @@
 </table>
 
 <em>
-    :art: Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
+    :art: profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
 </em>
 
 <hr />
