@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
+    <em>You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>.</em>
 </p>
 
 <hr />
@@ -152,7 +152,7 @@
 </table>
 
 <em>
-    :art: profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>
+    :art: profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>.
 </em>
 
 <hr />
