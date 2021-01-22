@@ -124,6 +124,16 @@
             </a>
         </td>
         <td>
+            <a title="diagrams.net" href="https://www.diagrams.net/">
+                <img alt="diagrams.net" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/diagrams.svg" />
+            </a>
+        </td>
+        <td>
+            <a title="Raspberry Pi" href="https://www.raspberrypi.org/">
+                <img alt="Raspberry Pi" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/raspberrypi.svg" />
+            </a>
+        </td>
+        <td>
             <a title="Atom" href="https://atom.io/">
                 <img alt="Atom" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/atom.svg" />
             </a>
@@ -133,12 +143,6 @@
                 <img alt="Sonarcloud" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/sonarcloud.svg" />
             </a>
         </td>
-        <td>
-            <a title="Raspberry Pi" href="https://www.raspberrypi.org/">
-                <img alt="Raspberry Pi" height="24px" src="https://raw.githubusercontent.com/TheBusyBiscuit/TheBusyBiscuit/master/icons/raspberrypi.svg" />
-            </a>
-        </td>
-        <td />
     </tr>
 </table>
 
