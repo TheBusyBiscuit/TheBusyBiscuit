@@ -153,5 +153,5 @@
 <hr />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=58a6ff&icon_color=eba254" alt="Profile Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true&hide_border=true&bg_color=00000000&title_color=0366d6&text_color=4896ff&icon_color=ffa74a" alt="Profile Stats">
 </p>
