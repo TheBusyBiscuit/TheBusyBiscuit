@@ -2,7 +2,7 @@
 <h3 align="center">Student at University, coffee addict and an Open-Source software developer.</h3>
 
 <p align="center">
-    <em>(You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a>)</em>
+    <em>:eyes: You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
 </p>
 
 <hr />
