@@ -2,7 +2,9 @@
 <h3 align="center">Student at University, coffee addict and an Open-Source software developer.</h3>
 
 <p align="center">
-    <em>:eyes: You probably know me as the guy who created <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a></em>
+    <em>
+        :wrench: Currently working on <a href="https://github.com/Slimefun"><strong>@Slimefun</strong></a> and <a href="https://github.com/MockBukkit"><strong>@MockBukkit</strong></a>
+    </em>
 </p>
 
 <hr />
@@ -158,9 +160,6 @@
 
 <p align="center">
     <em>
-        :art: profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>.
+        :art: Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>.
     </em>
-    <br /> 
-    <img width="47%" alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=TheBusyBiscuit&show_icons=true&hide_border=true&bg_color=00000000&title_color=0366d6&text_color=4896ff&icon_color=ffa74a" />
-    <img width="47%" alt="Commit streaks" src="https://github-readme-streak-stats.herokuapp.com?user=TheBusyBiscuit&hide_border=true&background=00000000&stroke=4896ff&dates=71a1e0&ring=ffa74a&sideNums=4896ff&currStreakLabel=4896ff&currStreakNum=4896ff&sideLabels=4896ff" />
 </p>
