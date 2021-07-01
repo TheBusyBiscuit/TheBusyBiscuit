@@ -1,7 +1,5 @@
-<h2 align="center">Hello :wave:, I'm TheBusyBiscuit!</h2>
+<h3 align="center">:cookie: About me</h3>
 
-
-<h4 align="center">About me</h4>
 <p align="center">
     Student at University,
     coffee enthusiast and
@@ -13,7 +11,7 @@
 
 <hr />
 
-<h4 align="center">Meaningless but shiny badges</h4>
+<h3 align="center">:trophy: Meaningless but shiny badges</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -23,7 +21,7 @@
 
 <hr />
 
-<h4 align="center">Tools and languages</h4>
+<h3 align="center">:books: Tools and languages</h3>
     
 <p align="center">
     <br />
@@ -142,7 +140,7 @@
 
 <hr />
 
-<h4 align="center">Image credit</h4>
+<h3 align="center">:art: Image credit</h3>
 <p align="center">
     <em>
         Profile picture, Slimefun logo and dough logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a> <3.
