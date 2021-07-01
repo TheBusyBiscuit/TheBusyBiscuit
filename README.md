@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=thebusybiscuit&margin-w=10&row=1&no-frame=true&no-bg=true" />
+        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=thebusybiscuit&margin-w=10&row=1&no-frame=true&no-bg=true&title=Organizations,Stars,Followers,Commit,PullRequest,Repositories" />
     </a>
 </p>
 
