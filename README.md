@@ -13,7 +13,7 @@
 
 <hr />
 
-<h3 align="center">:trophy: Meaningless but shiny badges</h3>
+<h3 align="center">:trophy: Meaningless but shiny</h3>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
