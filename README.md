@@ -159,7 +159,15 @@
 <hr />
 
 <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=thebusybiscuit&margin-w=10&row=1&no-frame=true&no-bg=true" />
+    </a>
+</p>
+    
+<hr />
+
+<p align="center">
     <em>
-        :art: Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>.
+        :art: Profile picture, Slimefun logo and dough logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a>.
     </em>
 </p>
