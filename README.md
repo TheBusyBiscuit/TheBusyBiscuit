@@ -1,3 +1,5 @@
+<h2 align="center">Hello :wave:, I'm TheBusyBiscuit!</h2>
+
 <h3 align="center">:cookie: About me</h3>
 
 <p align="center">
