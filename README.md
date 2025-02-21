@@ -9,5 +9,5 @@ My main skills include Python, Java, TypeScript, Web development, Automated Test
 
 <h3>:art: Image credit</h3>
 <em>
-    Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a> <3.
+    Profile picture and Slimefun logo drawn by <a href="https://www.instagram.com/iamsorry_art/">@IAmSorry_Art</a> :heart:
 </em>
