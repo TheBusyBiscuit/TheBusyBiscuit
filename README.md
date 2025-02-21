@@ -3,12 +3,9 @@ I am the original creator of <a href="https://github.com/Slimefun"><strong>@Slim
 My main skills include Python, Java, TypeScript, Web development, Automated Testing and AI/ML.
 
 <h3>:trophy: Profile Trophies</h3>
-
-<hr />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github profile trophies" src="https://github-profile-trophy.vercel.app/?username=thebusybiscuit&margin-w=10&row=1&no-frame=true&no-bg=true" />
 </a>
-<hr />
 
 <h3>:art: Image credit</h3>
 <em>
